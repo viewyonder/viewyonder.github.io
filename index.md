@@ -15,7 +15,7 @@ The search box in the top right will autocomplete using an internal index.
 
 The embedded Google Search below will use the Google index.
 
-{% include search.html %}
+{% include google_search.html %}
 
 ### 1. Download the theme
 
