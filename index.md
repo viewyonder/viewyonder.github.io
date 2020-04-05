@@ -1,13 +1,12 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
-tags: [getting_started]
+title: "Welcome to How to do AWS"
+keywords: homepage welcome index home
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: Welcome to How to do AWS! Whether you got here via a Google Search or a shared link, we hope you find what you're looking for.  
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="If you don't find what you need, why not <a alt='let us know' href='mailto:letusknow@viewyonder.com'>let us know</a>. This isn't a commercial site so you are welcome to contribute. You can clone, add pages and do pull requests -- or you can just < alt='submit content' href='mailto:submissions@viewyonder.com'>submit a link or copy</a>. We would also love <a alt='provide feedback' href='feedback@viewyonder.com'>feedback</a>." %}
 
 ## Build the Theme
 
