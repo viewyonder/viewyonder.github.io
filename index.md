@@ -3,7 +3,7 @@ title: "Welcome to How to do AWS"
 keywords: homepage welcome index home
 sidebar: mydoc_sidebar
 permalink: index.html
-toc: true
+toc: false
 summary: Welcome to How to do AWS! Whether you got here via a Google Search or a shared link, we hope you find what you're looking for.  
 ---
 
